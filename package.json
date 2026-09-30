@@ -1,0 +1,17 @@
+{
+  "name": "evil-trace",
+  "version": "4.1.0",
+  "description": "EVIL TRACE — username in, footprint out. 171 sites, keyless enrichers, shadow intel methods, rel=me verification, exposure scoring. Public data only, zero dependencies.",
+  "type": "module",
+  "bin": {
+    "eviltrace": "./bin/eviltrace.js"
+  },
+  "scripts": {
+    "scan": "node ./bin/eviltrace.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.5"
+  },
+  "license": "XMEET-2026"
+}

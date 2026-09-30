@@ -1,0 +1,2340 @@
+[
+ {
+  "missing_text": [],
+  "name": "GitHub",
+  "ok_status": [
+   200
+  ],
+  "url": "https://github.com/{u}",
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "X",
+  "ok_status": [
+   200
+  ],
+  "url": "https://x.com/{u}",
+  "category": "social",
+  "tags": [
+   "social"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [
+   "Sorry, this page isn't available"
+  ],
+  "name": "Instagram",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.instagram.com/{u}/",
+  "category": "social",
+  "tags": [
+   "social"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [
+   "not found"
+  ],
+  "name": "YouTube",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.youtube.com/@{u}",
+  "category": "video",
+  "tags": [
+   "video",
+   "streaming"
+  ],
+  "quick": true
+ },
+ {
+  "bad_redirect": [
+   "login"
+  ],
+  "missing_text": [],
+  "name": "Reddit",
+  "ok_status": [
+   200
+  ],
+  "url": "https://old.reddit.com/user/{u}/",
+  "category": "forums",
+  "tags": [
+   "forums"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [
+   "Couldn't find this account"
+  ],
+  "name": "TikTok",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.tiktok.com/@{u}",
+  "category": "video",
+  "tags": [
+   "video",
+   "streaming"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [
+   "time machine"
+  ],
+  "name": "Twitch",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.twitch.tv/{u}",
+  "category": "video",
+  "tags": [
+   "video",
+   "streaming"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Telegram",
+  "ok_status": [
+   200
+  ],
+  "url": "https://t.me/{u}",
+  "category": "social",
+  "tags": [
+   "social"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Medium",
+  "ok_status": [
+   200
+  ],
+  "url": "https://medium.com/@{u}",
+  "category": "blogging",
+  "tags": [
+   "blog"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Dev.to",
+  "ok_status": [
+   200
+  ],
+  "url": "https://dev.to/{u}",
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Bluesky",
+  "ok_status": [
+   200
+  ],
+  "url": "https://bsky.app/profile/{u}",
+  "category": "social",
+  "tags": [
+   "social"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Threads",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.threads.com/@{u}",
+  "category": "social",
+  "tags": [
+   "social"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Mastodon",
+  "ok_status": [
+   200
+  ],
+  "url": "https://mastodon.social/@{u}",
+  "category": "social",
+  "tags": [
+   "social"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Pinterest",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.pinterest.com/{u}/",
+  "category": "photo",
+  "tags": [
+   "photo"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Tumblr",
+  "ok_status": [
+   200
+  ],
+  "url": "https://{u}.tumblr.com",
+  "category": "blogging",
+  "tags": [
+   "blog"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "SoundCloud",
+  "ok_status": [
+   200
+  ],
+  "url": "https://soundcloud.com/{u}",
+  "category": "music",
+  "tags": [
+   "music"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Spotify",
+  "ok_status": [
+   200
+  ],
+  "url": "https://open.spotify.com/user/{u}",
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Chess.com",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.chess.com/member/{u}",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Lichess",
+  "ok_status": [
+   200
+  ],
+  "url": "https://lichess.org/@/{u}",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Linktree",
+  "ok_status": [
+   200
+  ],
+  "url": "https://linktr.ee/{u}",
+  "category": "identity",
+  "tags": [
+   "identity"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Gravatar",
+  "ok_status": [
+   200
+  ],
+  "url": "https://en.gravatar.com/{u}",
+  "category": "identity",
+  "tags": [
+   "identity"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Ko-fi",
+  "ok_status": [
+   200
+  ],
+  "url": "https://ko-fi.com/{u}",
+  "category": "money",
+  "tags": [
+   "money"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "BuyMeACoffee",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.buymeacoffee.com/{u}",
+  "category": "money",
+  "tags": [
+   "money"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Patreon",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.patreon.com/{u}",
+  "category": "money",
+  "tags": [
+   "money"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Dribbble",
+  "ok_status": [
+   200
+  ],
+  "url": "https://dribbble.com/{u}",
+  "category": "creative",
+  "tags": [
+   "art"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Behance",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.behance.net/{u}",
+  "category": "creative",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Letterboxd",
+  "ok_status": [
+   200
+  ],
+  "url": "https://letterboxd.com/{u}/",
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "MyAnimeList",
+  "ok_status": [
+   200
+  ],
+  "url": "https://myanimelist.net/profile/{u}",
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Last.fm",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.last.fm/user/{u}",
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Itch.io",
+  "ok_status": [
+   200
+  ],
+  "url": "https://{u}.itch.io",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Speedrun.com",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.speedrun.com/user/{u}",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Duolingo",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.duolingo.com/profile/{u}",
+  "category": "education",
+  "tags": [
+   "edu"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Quora",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.quora.com/profile/{u}",
+  "category": "forums",
+  "tags": [
+   "forums"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "ProductHunt",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.producthunt.com/@{u}",
+  "category": "professional",
+  "tags": [
+   "pro"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "About.me",
+  "ok_status": [
+   200
+  ],
+  "url": "https://about.me/{u}",
+  "category": "identity",
+  "tags": [
+   "identity"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Steam",
+  "ok_status": [
+   200
+  ],
+  "url": "https://steamcommunity.com/id/{u}",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "GitLab",
+  "ok_status": [
+   200
+  ],
+  "url": "https://gitlab.com/{u}",
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "npm",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.npmjs.com/~{u}",
+  "category": "packages",
+  "tags": [
+   "packages"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "PyPI",
+  "ok_status": [
+   200
+  ],
+  "url": "https://pypi.org/user/{u}/",
+  "category": "packages",
+  "tags": [
+   "packages"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "crates.io",
+  "ok_status": [
+   200
+  ],
+  "url": "https://crates.io/users/{u}",
+  "category": "packages",
+  "tags": [
+   "packages"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Docker Hub",
+  "ok_status": [
+   200
+  ],
+  "url": "https://hub.docker.com/u/{u}",
+  "category": "code",
+  "tags": [
+   "dev"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "CodePen",
+  "ok_status": [
+   200
+  ],
+  "url": "https://codepen.io/{u}",
+  "category": "code",
+  "tags": [
+   "dev"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Replit",
+  "ok_status": [
+   200
+  ],
+  "url": "https://replit.com/@{u}",
+  "category": "code",
+  "tags": [
+   "dev"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Glitch",
+  "ok_status": [
+   200
+  ],
+  "url": "https://glitch.com/@{u}",
+  "category": "code",
+  "tags": [
+   "dev"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Hashnode",
+  "ok_status": [
+   200
+  ],
+  "url": "https://hashnode.com/@{u}",
+  "category": "blogging",
+  "tags": [
+   "blog"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "HackerRank",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.hackerrank.com/{u}",
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "LeetCode",
+  "ok_status": [
+   200
+  ],
+  "url": "https://leetcode.com/{u}/",
+  "category": "code",
+  "tags": [
+   "dev"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Kaggle",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.kaggle.com/{u}",
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "quick": true
+ },
+ {
+  "missing_text": [],
+  "name": "Flickr",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.flickr.com/photos/{u}/",
+  "category": "photo",
+  "tags": [
+   "photo"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Vimeo",
+  "ok_status": [
+   200
+  ],
+  "url": "https://vimeo.com/{u}",
+  "category": "video",
+  "tags": [
+   "video",
+   "streaming"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Dailymotion",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.dailymotion.com/{u}",
+  "category": "video",
+  "tags": [
+   "video",
+   "streaming"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Rumble",
+  "ok_status": [
+   200
+  ],
+  "url": "https://rumble.com/user/{u}",
+  "category": "video",
+  "tags": [
+   "video",
+   "streaming"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Odysee",
+  "ok_status": [
+   200
+  ],
+  "url": "https://odysee.com/@{u}",
+  "category": "video",
+  "tags": [
+   "video",
+   "streaming"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Snapchat",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.snapchat.com/add/{u}",
+  "category": "social",
+  "tags": [
+   "social"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Gumroad",
+  "ok_status": [
+   200
+  ],
+  "url": "https://{u}.gumroad.com",
+  "category": "money",
+  "tags": [
+   "money"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Substack",
+  "ok_status": [
+   200
+  ],
+  "url": "https://{u}.substack.com",
+  "category": "blogging",
+  "tags": [
+   "blog"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "IndieHackers",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.indiehackers.com/{u}",
+  "category": "professional",
+  "tags": [
+   "pro"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "NameMC",
+  "ok_status": [
+   200
+  ],
+  "url": "https://namemc.com/minecraft-names/{u}",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "PlanetMinecraft",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.planetminecraft.com/member/{u}/",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "GameJolt",
+  "ok_status": [
+   200
+  ],
+  "url": "https://gamejolt.com/@{u}",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "CurseForge",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.curseforge.com/members/{u}/projects",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Modrinth",
+  "ok_status": [
+   200
+  ],
+  "url": "https://modrinth.com/user/{u}",
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "DeviantArt",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.deviantart.com/{u}",
+  "category": "creative",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "ArtStation",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.artstation.com/{u}",
+  "category": "creative",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Cara",
+  "ok_status": [
+   200
+  ],
+  "url": "https://cara.app/{u}",
+  "category": "creative",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Bandcamp",
+  "ok_status": [
+   200
+  ],
+  "url": "https://{u}.bandcamp.com",
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Genius",
+  "ok_status": [
+   200
+  ],
+  "url": "https://genius.com/{u}",
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "AniList",
+  "ok_status": [
+   200
+  ],
+  "url": "https://anilist.co/user/{u}/",
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Etsy",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.etsy.com/shop/{u}",
+  "category": "marketplace",
+  "tags": [
+   "market"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "eBay",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.ebay.com/usr/{u}",
+  "category": "marketplace",
+  "tags": [
+   "market"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Fiverr",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.fiverr.com/{u}",
+  "category": "marketplace",
+  "tags": [
+   "market"
+  ]
+ },
+ {
+  "name": "Keybase",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "identity",
+  "tags": [
+   "identity"
+  ],
+  "quick": true,
+  "url": "https://keybase.io/{u}"
+ },
+ {
+  "name": "Kick",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "could not be found",
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "video",
+  "tags": [
+   "video",
+   "streaming"
+  ],
+  "url": "https://kick.com/{u}"
+ },
+ {
+  "name": "Gab",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "social",
+  "tags": [
+   "social"
+  ],
+  "url": "https://gab.com/{u}"
+ },
+ {
+  "name": "Minds",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "social",
+  "tags": [
+   "social"
+  ],
+  "url": "https://www.minds.com/{u}"
+ },
+ {
+  "name": "CuriousCat",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "social",
+  "tags": [
+   "social"
+  ],
+  "url": "https://curiouscat.me/{u}"
+ },
+ {
+  "name": "Hacker News",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "no such user"
+  ],
+  "bad_redirect": [],
+  "category": "forums",
+  "tags": [
+   "forums"
+  ],
+  "url": "https://news.ycombinator.com/user?id={u}"
+ },
+ {
+  "name": "Lobsters",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "forums",
+  "tags": [
+   "forums"
+  ],
+  "url": "https://lobste.rs/u/{u}"
+ },
+ {
+  "name": "Polywork",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "professional",
+  "tags": [
+   "pro"
+  ],
+  "url": "https://www.polywork.com/{u}"
+ },
+ {
+  "name": "Contra",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "professional",
+  "tags": [
+   "pro"
+  ],
+  "url": "https://contra.com/{u}"
+ },
+ {
+  "name": "Peerlist",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "professional",
+  "tags": [
+   "pro"
+  ],
+  "url": "https://peerlist.io/{u}"
+ },
+ {
+  "name": "TryHackMe",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "security",
+  "tags": [
+   "security"
+  ],
+  "quick": true,
+  "url": "https://tryhackme.com/p/{u}"
+ },
+ {
+  "name": "Root-Me",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "security",
+  "tags": [
+   "security"
+  ],
+  "url": "https://www.root-me.org/{u}?lang=en"
+ },
+ {
+  "name": "HackerOne",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "security",
+  "tags": [
+   "security"
+  ],
+  "url": "https://hackerone.com/{u}?type=user"
+ },
+ {
+  "name": "Bugcrowd",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "security",
+  "tags": [
+   "security"
+  ],
+  "url": "https://bugcrowd.com/{u}"
+ },
+ {
+  "name": "Exercism",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://exercism.org/profiles/{u}"
+ },
+ {
+  "name": "freeCodeCamp",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "couldn't find",
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://www.freecodecamp.org/{u}"
+ },
+ {
+  "name": "Codeforces",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "no such handle"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://codeforces.com/profile/{u}"
+ },
+ {
+  "name": "AtCoder",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404",
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://atcoder.jp/users/{u}"
+ },
+ {
+  "name": "Topcoder",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://profiles.topcoder.com/{u}"
+ },
+ {
+  "name": "HackerEarth",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://www.hackerearth.com/@{u}"
+ },
+ {
+  "name": "CodeChef",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "couldn't find"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://www.codechef.com/users/{u}"
+ },
+ {
+  "name": "GeeksforGeeks",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://auth.geeksforgeeks.org/user/{u}/practice/"
+ },
+ {
+  "name": "CodinGame",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://www.codingame.com/profile/{u}"
+ },
+ {
+  "name": "Devpost",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "couldn't find"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://www.devpost.com/{u}"
+ },
+ {
+  "name": "Launchpad",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://launchpad.net/~{u}"
+ },
+ {
+  "name": "OpenStreetMap",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://www.openstreetmap.org/user/{u}"
+ },
+ {
+  "name": "Observable",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://observablehq.com/@{u}"
+ },
+ {
+  "name": "CodeSandbox",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://codesandbox.io/u/{u}"
+ },
+ {
+  "name": "JSFiddle",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://jsfiddle.net/user/{u}/fiddles/"
+ },
+ {
+  "name": "HuggingFace",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "quick": true,
+  "url": "https://huggingface.co/{u}"
+ },
+ {
+  "name": "SourceForge",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://sourceforge.net/u/{u}/profile/"
+ },
+ {
+  "name": "Bitbucket",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://bitbucket.org/{u}/"
+ },
+ {
+  "name": "Codeberg",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://codeberg.org/{u}"
+ },
+ {
+  "name": "SourceHut",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "code",
+  "tags": [
+   "dev"
+  ],
+  "url": "https://sr.ht/~{u}"
+ },
+ {
+  "name": "RubyGems",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "couldn't find"
+  ],
+  "bad_redirect": [],
+  "category": "packages",
+  "tags": [
+   "packages"
+  ],
+  "url": "https://rubygems.org/profiles/{u}"
+ },
+ {
+  "name": "NuGet",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "does not exist"
+  ],
+  "bad_redirect": [],
+  "category": "packages",
+  "tags": [
+   "packages"
+  ],
+  "url": "https://www.nuget.org/profiles/{u}"
+ },
+ {
+  "name": "WordPress",
+  "url": "https://{u}.wordpress.com",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "doesn't exist",
+   "do not exist"
+  ],
+  "bad_redirect": [],
+  "category": "blogging",
+  "tags": [
+   "blog"
+  ]
+ },
+ {
+  "name": "Blogger",
+  "url": "https://{u}.blogspot.com",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "blogging",
+  "tags": [
+   "blog"
+  ]
+ },
+ {
+  "name": "LiveJournal",
+  "url": "https://{u}.livejournal.com/profile",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "unknown",
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "blogging",
+  "tags": [
+   "blog"
+  ]
+ },
+ {
+  "name": "Dreamwidth",
+  "url": "https://{u}.dreamwidth.org/profile",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "unknown",
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "blogging",
+  "tags": [
+   "blog"
+  ]
+ },
+ {
+  "name": "Buttondown",
+  "url": "https://buttondown.email/{u}/archive",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "blogging",
+  "tags": [
+   "blog"
+  ]
+ },
+ {
+  "name": "GitBook",
+  "url": "https://{u}.gitbook.io",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "identity",
+  "tags": [
+   "identity"
+  ]
+ },
+ {
+  "name": "Beacons",
+  "url": "https://beacons.ai/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "identity",
+  "tags": [
+   "identity"
+  ]
+ },
+ {
+  "name": "VSCO",
+  "url": "https://vsco.co/{u}/gallery",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "photo",
+  "tags": [
+   "photo"
+  ]
+ },
+ {
+  "name": "500px",
+  "url": "https://500px.com/p/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "photo",
+  "tags": [
+   "photo"
+  ]
+ },
+ {
+  "name": "Unsplash",
+  "url": "https://unsplash.com/@{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "couldn't find"
+  ],
+  "bad_redirect": [],
+  "category": "photo",
+  "tags": [
+   "photo"
+  ]
+ },
+ {
+  "name": "Pexels",
+  "url": "https://www.pexels.com@{u}/",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "photo",
+  "tags": [
+   "photo"
+  ]
+ },
+ {
+  "name": "Imgur",
+  "url": "https://imgur.com/user/{u}/posts",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "couldn't find",
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "photo",
+  "tags": [
+   "photo"
+  ]
+ },
+ {
+  "name": "Giphy",
+  "url": "https://giphy.com/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "creative",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "name": "Newgrounds",
+  "url": "https://{u}.newgrounds.com",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "does not exist"
+  ],
+  "bad_redirect": [],
+  "category": "creative",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "name": "FurAffinity",
+  "url": "https://www.furaffinity.net/user/{u}/",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "could not be found"
+  ],
+  "bad_redirect": [],
+  "category": "creative",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "name": "Mixcloud",
+  "url": "https://www.mixcloud.com/{u}/",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "name": "Audiomack",
+  "url": "https://audiomack.com/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "name": "BandLab",
+  "url": "https://www.bandlab.com/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "name": "RateYourMusic",
+  "url": "https://rateyourmusic.com~{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "name": "ListenBrainz",
+  "url": "https://listenbrainz.org/user/{u}/",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "404"
+  ],
+  "bad_redirect": [],
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "name": "Libre.fm",
+  "url": "https://libre.fm/user/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "name": "Wattpad",
+  "url": "https://www.wattpad.com/user/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "writing",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "name": "AO3",
+  "url": "https://archiveofourown.org/users/{u}/profile",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "couldn't find"
+  ],
+  "bad_redirect": [],
+  "category": "writing",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "name": "Quotev",
+  "url": "https://www.quotev.com/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "writing",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "name": "Inkitt",
+  "url": "https://www.inkitt.com/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "writing",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "name": "OpenCollective",
+  "url": "https://opencollective.com/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "money",
+  "tags": [
+   "money"
+  ]
+ },
+ {
+  "name": "Liberapay",
+  "url": "https://liberapay.com/{u}/",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "money",
+  "tags": [
+   "money"
+  ]
+ },
+ {
+  "name": "Redbubble",
+  "url": "https://www.redbubble.com/people/{u}/shop",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "marketplace",
+  "tags": [
+   "market"
+  ]
+ },
+ {
+  "name": "Depop",
+  "url": "https://www.depop.com/{u}/",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "marketplace",
+  "tags": [
+   "market"
+  ]
+ },
+ {
+  "name": "Poshmark",
+  "url": "https://poshmark.com/closet/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "marketplace",
+  "tags": [
+   "market"
+  ]
+ },
+ {
+  "name": "Backloggd",
+  "url": "https://www.backloggd.com/u/{u}/",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "name": "BoardGameGeek",
+  "url": "https://boardgamegeek.com/user/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "invalid username"
+  ],
+  "bad_redirect": [],
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ]
+ },
+ {
+  "name": "Trakt",
+  "url": "https://trakt.tv/users/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "name": "MyDramaList",
+  "url": "https://mydramalist.com/profile/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "name": "Kitsu",
+  "url": "https://kitsu.io/users/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "name": "Anime-Planet",
+  "url": "https://www.anime-planet.com/users/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "name": "StoryGraph",
+  "url": "https://app.thestorygraph.com/profile/{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "name": "Hardcover",
+  "url": "https://hardcover.app/@{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [
+   "not found"
+  ],
+  "bad_redirect": [],
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "name": "Roblox",
+  "url": "roblox-api://{u}",
+  "ok_status": [
+   200
+  ],
+  "missing_text": [],
+  "bad_redirect": [],
+  "category": "gaming",
+  "tags": [
+   "gaming"
+  ],
+  "check": {
+   "type": "roblox-api"
+  }
+ },
+ {
+  "missing_text": [],
+  "name": "Carrd",
+  "ok_status": [
+   200
+  ],
+  "url": "https://{u}.carrd.co",
+  "category": "creator",
+  "tags": [
+   "creator"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Bio.link",
+  "ok_status": [
+   200
+  ],
+  "url": "https://bio.link/{u}",
+  "category": "creator",
+  "tags": [
+   "creator"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Lit.link",
+  "ok_status": [
+   200
+  ],
+  "url": "https://lit.link/{u}",
+  "category": "creator",
+  "tags": [
+   "creator"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Read.cv",
+  "ok_status": [
+   200
+  ],
+  "url": "https://read.cv/{u}",
+  "category": "creator",
+  "tags": [
+   "creator"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Fanbox",
+  "ok_status": [
+   200
+  ],
+  "url": "https://{u}.fanbox.cc",
+  "category": "creator",
+  "tags": [
+   "creator"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Memrise",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.memrise.com/user/{u}/",
+  "category": "education",
+  "tags": [
+   "education"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Codecademy",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.codecademy.com/profiles/{u}",
+  "category": "education",
+  "tags": [
+   "education"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Codewars",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.codewars.com/users/{u}",
+  "category": "code",
+  "tags": [
+   "code"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "StackBlitz",
+  "ok_status": [
+   200
+  ],
+  "url": "https://stackblitz.com/@{u}",
+  "category": "code",
+  "tags": [
+   "code"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Packagist",
+  "ok_status": [
+   200
+  ],
+  "url": "https://packagist.org/packages/{u}/",
+  "category": "packages",
+  "tags": [
+   "packages"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "VS Marketplace",
+  "ok_status": [
+   200
+  ],
+  "url": "https://marketplace.visualstudio.com/publishers/{u}",
+  "category": "code",
+  "tags": [
+   "code"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Tildes",
+  "ok_status": [
+   200
+  ],
+  "url": "https://tildes.net/user/{u}",
+  "category": "forums",
+  "tags": [
+   "forums"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Slashdot",
+  "ok_status": [
+   200
+  ],
+  "url": "https://slashdot.org/~{u}",
+  "category": "forums",
+  "tags": [
+   "forums"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "HTB Forum",
+  "ok_status": [
+   200
+  ],
+  "url": "https://forum.hackthebox.com/u/{u}.json",
+  "category": "security",
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Serializd",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.serializd.com/user/{u}",
+  "category": "entertainment",
+  "tags": [
+   "entertainment"
+  ]
+ },
+ {
+  "missing_text": [
+   "Page not found"
+  ],
+  "name": "Goodreads",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.goodreads.com/{u}",
+  "category": "writing",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "LibraryThing",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.librarything.com/profile/{u}",
+  "category": "writing",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "HearThis.at",
+  "ok_status": [
+   200
+  ],
+  "url": "https://hearthis.at/{u}/",
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "VK",
+  "ok_status": [
+   200
+  ],
+  "url": "https://vk.com/{u}",
+  "category": "social",
+  "tags": [
+   "social"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Gettr",
+  "ok_status": [
+   200
+  ],
+  "url": "https://gettr.com/user/{u}",
+  "category": "social",
+  "tags": [
+   "social"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "WeChall",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.wechall.net/profile/{u}",
+  "category": "security",
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "AllTrails",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.alltrails.com/members/{u}",
+  "category": "social",
+  "tags": [
+   "social"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "Subscribestar",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.subscribestar.com/{u}",
+  "category": "money",
+  "tags": [
+   "money"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "DLive",
+  "ok_status": [
+   200
+  ],
+  "url": "https://dlive.tv/{u}",
+  "category": "video",
+  "tags": [
+   "video"
+  ]
+ },
+ {
+  "missing_text": [],
+  "name": "ReverbNation",
+  "ok_status": [
+   200
+  ],
+  "url": "https://www.reverbnation.com/{u}",
+  "category": "music",
+  "tags": [
+   "music"
+  ]
+ }
+]
